@@ -3,14 +3,21 @@
 
 Email Me 👉 ✉️ **akashshajiap2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<p align="left">
+  I enjoy uncovering insights from data and continuously improving my skills in
+  <b>Python, SQL, Excel, Power BI, and Data Visualization</b>.
+</p>
+<h2 align="left">👩‍💻 About Me</h2>
+<p align="left">
+  🎓 BCA Graduate from Kannur University<br>
+  📊 Data Analyst<br>
+  🧮 Analyzing data to drive informed business decisions<br>
+  📈 Skilled in data cleaning, visualization, and reporting<br>
+  🐍 Using Python (Pandas, NumPy) for data analysis<br>
+  📉 Experienced with Power BI / Tableau for dashboards<br>
+  🗄️ Working with SQL for data querying and management<br>
+  🎯 Goal: To become a skilled and insight-driven Data Analyst<br>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akashshajiap&theme=radical&no-frame=false&no-bg=true&margin-w=4)
